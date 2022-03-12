@@ -1,1 +1,1 @@
-pacman -S xorg xterm xdg-user-dirs pulseaudio pavucontrol engrampa xed celluloid xfce4-power-manager xfce4-appfinder flameshot lxappearance tint2 picom htop copyq kitty thunar nitrogen obconf xdotool playerctl zsh zsh-syntax-highlighting
+sudo pacman -S xorg xterm xdg-user-dirs pulseaudio pavucontrol engrampa xed celluloid xfce4-power-manager xfce4-appfinder flameshot lxappearance tint2 picom htop copyq kitty thunar nitrogen obconf xdotool playerctl zsh zsh-syntax-highlighting
